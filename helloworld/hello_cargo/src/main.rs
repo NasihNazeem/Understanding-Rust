@@ -1,3 +1,7 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Guess the number!");
+
+    println!("Please input your guess.");
+
+    let guess = String::new();
 }
